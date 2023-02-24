@@ -1,0 +1,2 @@
+This timer driver (module) is created for Raspberry pi and LED Light.  Enter the value of seconds into the variable, as soon as the module is activated, 
+the light bulb will light up for the time you set. To repeat, you will first need to remove the module (rmmod) and install it again (insmod).
